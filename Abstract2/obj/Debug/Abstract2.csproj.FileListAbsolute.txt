@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Abstract2\Abstract2\bin\Debug\Abstract2.exe.config
+C:\Users\sande\source\repos\Abstract2\Abstract2\bin\Debug\Abstract2.exe
+C:\Users\sande\source\repos\Abstract2\Abstract2\bin\Debug\Abstract2.pdb
+C:\Users\sande\source\repos\Abstract2\Abstract2\obj\Debug\Abstract2.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Abstract2\Abstract2\obj\Debug\Abstract2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Abstract2\Abstract2\obj\Debug\Abstract2.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Abstract2\Abstract2\obj\Debug\Abstract2.exe
+C:\Users\sande\source\repos\Abstract2\Abstract2\obj\Debug\Abstract2.pdb
